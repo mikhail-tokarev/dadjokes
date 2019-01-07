@@ -15,3 +15,4 @@ Requires Flutter v0.2.3 or later with Dart 2 support enabled.
 
 This really is a hobby project - but if you hit a bug, I'd love to know.
 [Fill in this form](https://docs.google.com/forms/d/1rSutZDcuVA8sT4aEgJRYjD_pJtgGSLlbvXO5r3iOiXM), and I'll try and help.
+
